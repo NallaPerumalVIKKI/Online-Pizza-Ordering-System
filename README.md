@@ -15,6 +15,5 @@
 
 
 
-![Screenshot (951)](https://user-images.githubusercontent.com/87609938/149478456-c24a3629-f761-4580-bd97-d4403bcf744b.png)
 
 .
